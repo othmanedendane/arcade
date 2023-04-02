@@ -1,0 +1,241 @@
+#one{
+    height:700px;
+    width:540px;
+    float:left;
+}
+#two{
+    height:700px;
+    width:540px;
+    float:right;
+}
+
+#three{
+    height:700px;
+    width:540px;
+    float:left;
+}
+#four{
+    height:700px;
+    width:540px;
+    float:right;
+}
+
+#five{
+    height:405px;
+    width:540px;
+    margin-top:25px;
+    float:left;
+}
+#six{
+    height:405px;
+    width:540px;
+    margin-top:25px;
+    float:right;
+}
+#cen{
+    float:center;
+}
+#profil{
+    height:505px;
+    width:500px;
+    float:right;
+}
+#who{
+    margin-left:135px;
+}
+#dowcv{
+   margin-left:350px;
+   width:400px;
+}
+#dowbu{
+    margin-left:350px;
+   width:435px;
+   margin-top:50px;
+}
+#html{
+    width:171px;
+    height:180px;
+}
+#css{
+    width:171px;
+    height:180px;
+}
+#js{
+    width:160px;
+    height:170px;
+}
+#jq{
+    width:171px;
+    height:180px;
+}
+#bootstrap{
+    width:180px;
+    height:165px;
+}
+#node{
+    width:171px;
+    height:180px;
+}
+#php{
+    width:171px;
+    height:155px;
+}
+#asp{
+    width:171px;
+    height:165px;
+}
+#react{
+    width:171px;
+    height:165px;
+}
+#angular{
+    width:171px;
+    height:165px;
+}
+#c{
+    width:171px;
+    height:165px;
+}
+#mysql{
+    width:171px;
+    height:165px;
+}
+#oracle{
+    width:171px;
+    height:165px;
+}
+#sql{
+    width:171px;
+    height:165px;
+}
+#mongo{
+    width:171px;
+    height:145px;
+}
+#python{
+    width:171px;
+    height:165px;
+}
+#java{
+    width:171px;
+    height:165px;
+}
+#git{
+    width:171px;
+    height:165px;
+}
+#visual{
+    width:171px;
+    height:165px;
+}
+#studio{
+    width:171px;
+    height:165px;
+}
+#postman{
+    width:171px;
+    height:165px;
+}
+#pycharm{
+    width:171px;
+    height:165px;
+}
+#android{
+    width:171px;
+    height:165px;
+}
+#xampp{
+    width:171px;
+    height:165px;
+}
+#push{
+    margin-left:335px
+}
+#fline{
+    margin-left:125px
+}
+#sline{
+    margin-left:125px
+}
+#tline{
+    margin-left:460px
+}
+#bulletin{
+    text-shadow:1px 1px 1px yellow,2px 2px 1px white;
+    letter-spacing:6px;
+    word-spacing:10px;
+    font-style:oblique;
+    text-align:center;
+    font-family:Copperplate Gothic Light;
+}
+#card1{
+    width:10rem;
+    height:425px;
+    flex:1;
+}
+
+#card2{
+    width:10rem;
+    height:425px;
+    flex:1;
+}
+#card3{
+    width:10rem;
+    height:425px;
+    flex:1;
+}
+#imgcard1{
+    height:215px;
+    flex:1;
+}
+#imgcard2{
+    height:215px;
+    flex:1;
+}
+#imgcard3{
+    height:215px;
+    flex:1;
+}
+#liengit{
+    height:200px;
+    width:200px;
+}
+#test2{
+    height:200px;
+    width:200px;
+}
+#joy{
+    height:40px;
+    width:40px;
+    margin-bottom:7px;
+}
+
+
+#cartt{
+    height:500px;
+    width:700px;
+    margin-left:200px;
+    
+  }
+
+  @media all and (max-width: 700px) {
+    #cartt
+    {
+        margin-left:0px;
+        width:550px;
+    }
+    
+  }
+
+
+
+
+
+@media all and (max-width: 500px) {
+    #cartt
+    {
+        margin-left:0px;
+        width:350px;
+    }
+    
+  }

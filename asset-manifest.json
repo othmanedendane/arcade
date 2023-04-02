@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/arcade/static/css/main.04ffb0a5.css",
+    "main.js": "/arcade/static/js/main.a8eb2a6a.js",
+    "static/media/fond.gif": "/arcade/static/media/fond.47c76e5be3b56bf805dc.gif",
+    "static/media/1.jpeg": "/arcade/static/media/1.297faee6d3d39a6990c8.jpeg",
+    "static/media/3.jpeg": "/arcade/static/media/3.13cd2b554740e3440995.jpeg",
+    "static/media/arcade2.png": "/arcade/static/media/arcade2.d23f6629a1122f4e5f2d.png",
+    "static/media/4.jpeg": "/arcade/static/media/4.8fe526b768ad07d7a078.jpeg",
+    "static/media/8.jpeg": "/arcade/static/media/8.50c513bee7815e01efda.jpeg",
+    "static/media/2.jpeg": "/arcade/static/media/2.2fe929559a54fcb253f2.jpeg",
+    "static/media/9.jpeg": "/arcade/static/media/9.0d84effc19fd572736b2.jpeg",
+    "static/media/6.jpeg": "/arcade/static/media/6.544cd5af71d57dd2c852.jpeg",
+    "static/media/5.jpeg": "/arcade/static/media/5.9b81922186e19d420410.jpeg",
+    "static/media/7.jpeg": "/arcade/static/media/7.a11e9c186bbe3c2e0121.jpeg",
+    "static/media/joyboy.png": "/arcade/static/media/joyboy.cf5632f6916526bcdd1d.png",
+    "index.html": "/arcade/index.html",
+    "main.04ffb0a5.css.map": "/arcade/static/css/main.04ffb0a5.css.map",
+    "main.a8eb2a6a.js.map": "/arcade/static/js/main.a8eb2a6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ffb0a5.css",
+    "static/js/main.a8eb2a6a.js"
+  ]
+}
